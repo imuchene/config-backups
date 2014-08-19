@@ -1,0 +1,2 @@
+#!/bin/sh
+curl "http://www.vaplive.com/redmine/sys/fetch_changesets?key=Pv44iDAqIoxKSWG3tHlD" > /dev/null 2>&1
